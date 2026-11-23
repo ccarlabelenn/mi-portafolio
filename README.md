@@ -5,7 +5,7 @@ Diseño, desarrollo y despliegue del examen de diseño de interfaces web.
 ## 1. Enlaces del proyecto
 
 * **Sitio publicado (GitHub Pages):** <>
-* **Archivo de Figma (Diseño final — acceso de lectura):** <https://www.figma.com/design/AMrK5AeX5KmZy4gzNrCmEm/examen?node-id=7-5&t=YiC7b6e4iZgkIVWg-1>
+* **Archivo de Figma:** <https://www.figma.com/design/AMrK5AeX5KmZy4gzNrCmEm/examen?node-id=7-5&t=YiC7b6e4iZgkIVWg-1>
 
 ---
 
