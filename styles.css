@@ -106,9 +106,8 @@ main>picture{display:block}
 
 /* MOBILE + TABLET */
 @media (max-width:1024px){
- :root{--u:min(calc(100vw/520),.85px)}
- body{font-size:calc(24*var(--u))}
- .nav{padding:calc(34*var(--u)) calc(40*var(--u)) calc(20*var(--u));height:auto}
+  html{scroll-snap-type:none}
+  .nav{padding:calc(34*var(--u) + env(safe-area-inset-top)) calc(40*var(--u)) calc(20*var(--u));height:auto}
  .hero{height:auto;min-height:calc(100svh - 90*var(--u));margin-top:0;padding:0 calc(40*var(--u))}
  .hero h1{font-size:calc(64*var(--u))}
  .franja{aspect-ratio:4/3}
