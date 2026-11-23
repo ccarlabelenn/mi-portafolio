@@ -4,7 +4,7 @@ Diseño, desarrollo y despliegue del examen de diseño de interfaces web.
 
 ## 1. Enlaces del proyecto
 
-* **Sitio publicado (GitHub Pages):** <https://ccarlabelenn.github.io/mi-portafolio/index.html#contacto>
+* **Sitio publicado (GitHub Pages):** <https://ccarlabelenn.github.io/mi-portafolio/>
 * **Archivo de Figma:** <https://www.figma.com/design/AMrK5AeX5KmZy4gzNrCmEm/examen?node-id=7-5&t=YiC7b6e4iZgkIVWg-1>
 
 ---
